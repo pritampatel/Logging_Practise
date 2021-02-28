@@ -1,0 +1,12 @@
+2021-02-28 19:37:32,068: INFO: Created Employee: John Smith
+2021-02-28 19:37:32,068: INFO: Created Employee: Will Smith
+2021-02-28 19:37:46,451: INFO: Created Employee: John Smith
+2021-02-28 19:37:46,451: INFO: Created Employee: Will Smith
+2021-02-28 19:39:02,807: INFO: Created Employee: John Smith
+2021-02-28 19:39:02,808: INFO: Created Employee: Will Smith
+2021-02-28 19:50:55,695: INFO: Created Employee: John Smith
+2021-02-28 19:50:55,696: INFO: Created Employee: Will Smith
+INFO: __main__: Created Employee: John Smith
+INFO: __main__: Created Employee: Will Smith
+INFO: __main__: Created Employee: John Smith
+INFO: __main__: Created Employee: Will Smith

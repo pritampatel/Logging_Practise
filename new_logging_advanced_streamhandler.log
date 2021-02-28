@@ -1,0 +1,20 @@
+2021-02-28 20:44:19,860: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "new_logging_advanced_with_streamhandler.py", line 30, in division
+    result=x/y
+ZeroDivisionError: division by zero
+2021-02-28 20:46:14,931: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "new_logging_advanced_with_streamhandler.py", line 30, in division
+    result=x/y
+ZeroDivisionError: division by zero
+2021-02-28 20:48:24,745: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "new_logging_advanced_with_streamhandler.py", line 30, in division
+    result=x/y
+ZeroDivisionError: division by zero
+2021-02-28 20:55:04,052: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "new_logging_advanced_with_streamhandler.py", line 31, in division
+    result=x/y
+ZeroDivisionError: division by zero

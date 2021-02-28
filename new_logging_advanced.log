@@ -1,0 +1,5 @@
+2021-02-28 20:29:07,623: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "new_logging_advanced.py", line 25, in division
+    result=x/y
+ZeroDivisionError: division by zero
