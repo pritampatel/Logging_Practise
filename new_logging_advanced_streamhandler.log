@@ -1,20 +1,10 @@
-2021-02-28 20:44:19,860: __main__: ERROR: Tried to devide by zero
+2021-03-12 20:02:51,777: __main__: ERROR: Tried to devide by zero
 Traceback (most recent call last):
-  File "new_logging_advanced_with_streamhandler.py", line 30, in division
+  File "c:/Users/Pritam/Desktop/Practise/Logging_Practise/nlad_shldr - Copy.py", line 42, in division
     result=x/y
 ZeroDivisionError: division by zero
-2021-02-28 20:46:14,931: __main__: ERROR: Tried to devide by zero
+2021-03-12 20:19:49,418: __main__: ERROR: Tried to devide by zero
 Traceback (most recent call last):
-  File "new_logging_advanced_with_streamhandler.py", line 30, in division
-    result=x/y
-ZeroDivisionError: division by zero
-2021-02-28 20:48:24,745: __main__: ERROR: Tried to devide by zero
-Traceback (most recent call last):
-  File "new_logging_advanced_with_streamhandler.py", line 30, in division
-    result=x/y
-ZeroDivisionError: division by zero
-2021-02-28 20:55:04,052: __main__: ERROR: Tried to devide by zero
-Traceback (most recent call last):
-  File "new_logging_advanced_with_streamhandler.py", line 31, in division
+  File "c:/Users/Pritam/Desktop/Practise/Logging_Practise/nlad_shldr - Copy.py", line 42, in division
     result=x/y
 ZeroDivisionError: division by zero

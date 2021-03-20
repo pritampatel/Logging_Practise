@@ -1,0 +1,18 @@
+2021-03-12 20:02:51,777: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "c:/Users/Pritam/Desktop/Practise/Logging_Practise/nlad_shldr - Copy.py", line 42, in division
+    result=x/y
+ZeroDivisionError: division by zero
+2021-03-12 20:02:51,797: __main__: DEBUG: Div numbers 18, 0 is equal to None
+2021-03-12 20:02:51,798: __main__: DEBUG: Adding numbers 18, 0 is equal to 18
+2021-03-12 20:04:31,461: __main__: DEBUG: Div numbers 18, 27 is equal to 0.6666666666666666
+2021-03-12 20:04:31,462: __main__: DEBUG: Adding numbers 18, 0 is equal to 18
+2021-03-12 20:17:50,787: __main__: DEBUG: Div numbers 18, 204 is equal to 0.08823529411764706
+2021-03-12 20:17:50,788: __main__: DEBUG: Adding numbers 18, 0 is equal to 18
+2021-03-12 20:19:49,418: __main__: ERROR: Tried to devide by zero
+Traceback (most recent call last):
+  File "c:/Users/Pritam/Desktop/Practise/Logging_Practise/nlad_shldr - Copy.py", line 42, in division
+    result=x/y
+ZeroDivisionError: division by zero
+2021-03-12 20:19:49,421: __main__: DEBUG: Div numbers 18, 0 is equal to None
+2021-03-12 20:19:49,421: __main__: DEBUG: Adding numbers 18, 4 is equal to 22
